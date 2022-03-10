@@ -18,7 +18,8 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
 
-I'm [AbdElrahman Elsayed](https://www.linkedin.com/in/geekabdo/), I'm a Front End Engineer ☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
+I'm[AbdElrahman Elsayed](https://www.linkedin.com/in/geekabdo/), a Front-End Engineer ☀️.
+I'm a passionate developer who loves coding, open source, and the web platform ❤️.
 
 Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects.
 
