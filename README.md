@@ -4,8 +4,6 @@
 - 🏃 I’m currently focused on improving my skills in VueJs and Increasing Performance of JS code for websites.⚡ 
 - 💬 Feel Free to Ask me about Anything! 😎
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/GeekAbdo/)
-fact: I'm The Youngest Participant In Hajj Hackathon, The World's Largest Hackathon In Terms Of Prizes and People!
-
 
 
 <p align="center">
